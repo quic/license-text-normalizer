@@ -1,0 +1,7 @@
+include *.md
+include .coveragerc
+include .pylintrc
+include AUTHORS
+include LICENSE
+include pytest.ini
+include tox.ini

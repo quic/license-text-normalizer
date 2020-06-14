@@ -1,0 +1,11 @@
+__pycache__
+.coverage
+.eggs
+.mypy_cache
+.tox
+ENV
+bin
+lib
+
+*.egg-info
+*.pyc

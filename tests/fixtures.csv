@@ -1,0 +1,362 @@
+﻿raw,normalized
+"/* Copyright 2010 Google Inc. All Rights Reserved.
+
+   Distributed under MIT license.
+   See file LICENSE for detail or copy at https://opensource.org/licenses/MIT","Copyright 2010 Google Inc. All Rights Reserved.
+
+Distributed under MIT license.
+See file LICENSE for detail or copy at https://opensource.org/licenses/MIT"
+"##  Copyright 2018 Qualcomm Technologies, Inc. All rights reserved.
+##  Confidential & Proprietary - Qualcomm Technologies, Inc. (""QTI"")
+##
+##  The party receiving this software directly from QTI (the ""Recipient"")
+##  may use this software as reasonably necessary solely for the purposes","Copyright 2018 Qualcomm Technologies, Inc. All rights reserved.
+Confidential & Proprietary - Qualcomm Technologies, Inc. (""QTI"")
+
+The party receiving this software directly from QTI (the ""Recipient"")
+may use this software as reasonably necessary solely for the purposes"
+"    Portions Copyright (c) 1990, 1993
+    The Regents of the University of California.  All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+      - Redistributions of source code must retain the above copyright
+        notice, this list of conditions and the following disclaimer.
+      - Redistributions in binary form must reproduce the above copyright
+        notice, this list of conditions and the following disclaimer in the
+        documentation and/or other materials provided with the distribution.","Portions Copyright (c) 1990, 1993
+The Regents of the University of California.  All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution."
+"    Copyright (c) 2017 Borja Zarco (Google LLC) <bzarco@google.com>
+
+    All rights reserved. Use of this source code is governed by a
+    BSD-style license that can be found in the LICENSE file.","Copyright (c) 2017 Borja Zarco (Google LLC) <bzarco@google.com>
+
+All rights reserved. Use of this source code is governed by a
+BSD-style license that can be found in the LICENSE file."
+"@REM # Copyright (c) 2007 - 2017, Intel Corporation. All rights reserved.<BR>
+@REM # This program and the accompanying materials
+@REM # are licensed and made available under the terms and conditions of the BSD License
+@REM # which accompanies this distribution.    The full text of the license may be found at
+@REM # http://opensource.org/licenses/bsd-license.php
+@REM #
+@REM # THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+@REM # WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2007 - 2017, Intel Corporation. All rights reserved.<BR>
+This program and the accompanying materials
+are licensed and made available under the terms and conditions of the BSD License
+which accompanies this distribution.    The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+"Copyright 2006, Google Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+* Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.","Copyright 2006, Google Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer."
+" * Copyright (c) 2019-present, Facebook, Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the ""License"");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an ""AS IS"" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.","Copyright (c) 2019-present, Facebook, Inc.
+
+Licensed under the Apache License, Version 2.0 (the ""License"");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License."
+"#  Copyright (c) 2011-2012, ARM Limited. All rights reserved.
+#
+#  This program and the accompanying materials
+#  are licensed and made available under the terms and conditions of the BSD License
+#  which accompanies this distribution.  The full text of the license may be found at
+#  http://opensource.org/licenses/bsd-license.php
+#
+#  THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+#  WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2011-2012, ARM Limited. All rights reserved.
+
+This program and the accompanying materials
+are licensed and made available under the terms and conditions of the BSD License
+which accompanies this distribution.  The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+".\"" Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 The SCons Foundation
+.\""
+.\"" Permission is hereby granted, free of charge, to any person obtaining
+.\"" a copy of this software and associated documentation files (the
+.\"" ""Software""), to deal in the Software without restriction, including
+.\"" without limitation the rights to use, copy, modify, merge, publish,
+.\"" distribute, sublicense, and/or sell copies of the Software, and to
+.\"" permit persons to whom the Software is furnished to do so, subject to
+.\"" the following conditions:
+.\""","Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 The SCons Foundation
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+""Software""), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:"
+"
+:: Portions copyright (c) 2008 - 2010, Apple Inc. All rights reserved.
+:: This program and the accompanying materials
+:: are licensed and made available under the terms and conditions of the BSD License
+:: which accompanies this distribution.  The full text of the license may be found at
+:: http://opensource.org/licenses/bsd-license.php
+:: 
+:: THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+:: WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Portions copyright (c) 2008 - 2010, Apple Inc. All rights reserved.
+This program and the accompanying materials
+are licensed and made available under the terms and conditions of the BSD License
+which accompanies this distribution.  The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+"** Copyright (C) 1989 by Jef Poskanzer.
+**
+** Permission to use, copy, modify, and distribute this software and its
+** documentation for any purpose and without fee is hereby granted, provided
+** that the above copyright notice appear in all copies and that both that
+** copyright notice and this permission notice appear in supporting
+** documentation.  This software is provided ""as is"" without express or
+** implied warranty.
+**
+** The Graphics Interchange Format(c) is the Copyright property of
+** CompuServe Incorporated.  GIF(sm) is a Service Mark property of
+** CompuServe Incorporated.","Copyright (C) 1989 by Jef Poskanzer.
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided
+that the above copyright notice appear in all copies and that both that
+copyright notice and this permission notice appear in supporting
+documentation.  This software is provided ""as is"" without express or
+implied warranty.
+
+The Graphics Interchange Format(c) is the Copyright property of
+CompuServe Incorporated.  GIF(sm) is a Service Mark property of
+CompuServe Incorporated."
+"/// Copyright (c) 2004, Intel Corporation. All rights reserved.<BR>
+/// This program and the accompanying materials                          
+/// are licensed and made available under the terms and conditions of the BSD License         
+/// which accompanies this distribution.  The full text of the license may be found at        
+/// http://opensource.org/licenses/bsd-license.php                                            
+///                                                                                           
+/// THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,                     
+/// WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2004, Intel Corporation. All rights reserved.<BR>
+This program and the accompanying materials
+are licensed and made available under the terms and conditions of the BSD License
+which accompanies this distribution.  The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+"
+;Copyright (c) 2008, Intel Corporation. All rights reserved.<BR>
+;This program and the accompanying materials                          
+;are licensed and made available under the terms and conditions of the BSD License         
+;which accompanies this distribution.  The full text of the license may be found at        
+;http://opensource.org/licenses/bsd-license.php                                            
+                                                                                          ;
+;THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,                     
+;WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED. ","Copyright (c) 2008, Intel Corporation. All rights reserved.<BR>
+This program and the accompanying materials
+are licensed and made available under the terms and conditions of the BSD License
+which accompanies this distribution.  The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+"
+#*   Copyright (c) 2008 - 2010, Intel Corporation. All rights reserved.<BR>
+#*   This program and the accompanying materials                          
+#*   are licensed and made available under the terms and conditions of the BSD License         
+#*   which accompanies this distribution.  The full text of the license may be found at        
+#*   http://opensource.org/licenses/bsd-license.php                                            
+#*                                                                                             
+#*   THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,                     
+#*   WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2008 - 2010, Intel Corporation. All rights reserved.<BR>
+This program and the accompanying materials
+are licensed and made available under the terms and conditions of the BSD License
+which accompanies this distribution.  The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+"// Copyright 2006, Google Inc.
+// All rights reserved.
+//
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are
+// met:
+//
+//     * Redistributions of source code must retain the above copyright
+// notice, this list of conditions and the following disclaimer.
+//     * Redistributions in binary form must reproduce the above
+// copyright notice, this list of conditions and the following disclaimer
+// in the documentation and/or other materials provided with the
+// distribution.","Copyright 2006, Google Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution."
+";*    Copyright (c) 2012  - 2014, Intel Corporation. All rights reserved    *;
+;
+; This program and the accompanying materials are licensed and made available under
+; the terms and conditions of the BSD License that accompanies this distribution.
+; The full text of the license may be found at
+; http://opensource.org/licenses/bsd-license.php.
+;
+; THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+; WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2012  - 2014, Intel Corporation. All rights reserved
+
+This program and the accompanying materials are licensed and made available under
+the terms and conditions of the BSD License that accompanies this distribution.
+The full text of the license may be found at
+http://opensource.org/licenses/bsd-license.php.
+
+THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
+WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
+"/*=======================================================================
+
+  Copyright (c) 2014 Qualcomm Technologies Incorporated.
+  All Rights Reserved.
+  Qualcomm Confidential and Proprietary
+
+=========================================================================*/","Copyright (c) 2014 Qualcomm Technologies Incorporated.
+All Rights Reserved.
+Qualcomm Confidential and Proprietary"
+"/*************************************************************************
+
+  Copyright (c) 2014 Qualcomm Technologies Incorporated.
+  All Rights Reserved.
+  Qualcomm Confidential and Proprietary
+
+**************************************************************************/","Copyright (c) 2014 Qualcomm Technologies Incorporated.
+All Rights Reserved.
+Qualcomm Confidential and Proprietary"
+"# ==========================================================================
+
+  Copyright (c) 2014 Qualcomm Technologies Incorporated.
+  All Rights Reserved.
+  Qualcomm Confidential and Proprietary
+
+# ==========================================================================","Copyright (c) 2014 Qualcomm Technologies Incorporated.
+All Rights Reserved.
+Qualcomm Confidential and Proprietary"
+"/* Copyright 2010 Google Inc. All Rights Reserved.
+*/",Copyright 2010 Google Inc. All Rights Reserved.
+" * THIS FILE IS PART OF THE OggVorbis SOFTWARE CODEC SOURCE CODE.   *
+ * USE, DISTRIBUTION AND REPRODUCTION OF THIS LIBRARY SOURCE IS     *
+ * GOVERNED BY A BSD-STYLE SOURCE LICENSE INCLUDED WITH THIS SOURCE *
+ * IN 'COPYING'. PLEASE READ THESE TERMS BEFORE DISTRIBUTING.       *
+ *                                                                  *
+ * THE OggVorbis SOURCE CODE IS (C) COPYRIGHT 1994-2002             *
+ * by the Xiph.Org Foundation http://www.xiph.org/                  *","THIS FILE IS PART OF THE OggVorbis SOFTWARE CODEC SOURCE CODE.
+USE, DISTRIBUTION AND REPRODUCTION OF THIS LIBRARY SOURCE IS
+GOVERNED BY A BSD-STYLE SOURCE LICENSE INCLUDED WITH THIS SOURCE
+IN 'COPYING'. PLEASE READ THESE TERMS BEFORE DISTRIBUTING.
+
+THE OggVorbis SOURCE CODE IS (C) COPYRIGHT 1994-2002
+by the Xiph.Org Foundation http://www.xiph.org/"
+"By Steve Reid <sreid@sea-to-sky.net>
+100% Public Domain
+---------------
+Modified 7/98
+By James H. Brown <jbrown@burgoyne.com>
+Still 100% Public Domain","By Steve Reid <sreid@sea-to-sky.net>
+100% Public Domain
+
+Modified 7/98
+By James H. Brown <jbrown@burgoyne.com>
+Still 100% Public Domain"
+"/*
+** Copyright (c) 2010-2011 The Khronos Group Inc.
+**
+** Permission is hereby granted, free of charge, to any person obtaining a
+** copy of this software and/or associated documentation files (the
+** ""Materials""), to deal in the Materials without restriction, including
+** without limitation the rights to use, copy, modify, merge, publish,
+** distribute, sublicense, and/or sell copies of the Materials, and to
+** permit persons to whom the Materials are furnished to do so, subject to
+** the following conditions:
+**
+** The above copyright notice and this permission notice shall be included
+** in all copies or substantial portions of the Materials.
+**
+** THE MATERIALS ARE PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
+** EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+** MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+** IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+** CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+** TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+** MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+*/","Copyright (c) 2010-2011 The Khronos Group Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and/or associated documentation files (the
+""Materials""), to deal in the Materials without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Materials, and to
+permit persons to whom the Materials are furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Materials.
+
+THE MATERIALS ARE PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS."
+"$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes"
+"$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes"
+"$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes"

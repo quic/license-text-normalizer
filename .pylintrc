@@ -1,0 +1,7 @@
+[MESSAGES CONTROL]
+# Suppress invalid line continuation errors that result from 'black' formatter
+disable=C0330,no-member
+
+[BASIC]
+# Good variable names which should always be accepted, separated by a comma
+good-names=_,__,e,f,g,logger

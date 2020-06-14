@@ -1,0 +1,10 @@
+[run]
+branch = true
+parallel = true
+source =
+    license_text_normalizer
+omit =
+    tests/*
+
+[report]
+show_missing = true
