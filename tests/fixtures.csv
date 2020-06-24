@@ -366,9 +366,9 @@ MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS."
 ""This is free software; see the source for copying conditions.  There is NO""
 ""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."""
 "   @echo ""Copyright (C) 2005  Free Software Foundation, Inc.""
-    @echo ""This is free software; see the source for copying conditions.  There is NO""
+    @echo ""This is free software with @ delimiter; see the source for copying conditions.  There is NO""
     @echo ""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.""","""Copyright (C) 2005  Free Software Foundation, Inc.""
-""This is free software; see the source for copying conditions.  There is NO""
+""This is free software with @ delimiter; see the source for copying conditions.  There is NO""
 ""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."""
 "dnl Copyright (C) 2000-2002 Free Software Foundation, Inc.
 dnl This file is free software, distributed under the terms of the GNU
