@@ -23,6 +23,7 @@ DEFAULT_LEADING_DELIMITERS: List[str] = [
     "#",
     "*",
     "-",
+    "@echo",
 ]
 
 
@@ -33,6 +34,8 @@ DEFAULT_TRAILING_DELIMITERS: List[str] = ["*/", "*;", "*"]
 
 DEFAULT_WORDS_TO_STRIP: List[str] = [
     "\0",  # null char
+    "echo",
+    "dnl",
 ]
 
 
@@ -141,7 +144,7 @@ def _strip_words(line: str, words_to_strip: List[str]) -> str:
     normalized_line = line
     for word in words_to_strip:
         normalized_line = "".join(normalized_line.split(word))
-    return normalized_line
+    return normalized_line.lstrip()
 
 
 def _is_repeated_non_alnum(line: str) -> bool:
