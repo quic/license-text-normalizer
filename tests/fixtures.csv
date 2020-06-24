@@ -141,7 +141,7 @@ the following conditions:"
 :: are licensed and made available under the terms and conditions of the BSD License
 :: which accompanies this distribution.  The full text of the license may be found at
 :: http://opensource.org/licenses/bsd-license.php
-:: 
+::
 :: THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
 :: WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Portions copyright (c) 2008 - 2010, Apple Inc. All rights reserved.
 This program and the accompanying materials
@@ -175,12 +175,12 @@ The Graphics Interchange Format(c) is the Copyright property of
 CompuServe Incorporated.  GIF(sm) is a Service Mark property of
 CompuServe Incorporated."
 "/// Copyright (c) 2004, Intel Corporation. All rights reserved.<BR>
-/// This program and the accompanying materials                          
-/// are licensed and made available under the terms and conditions of the BSD License         
-/// which accompanies this distribution.  The full text of the license may be found at        
-/// http://opensource.org/licenses/bsd-license.php                                            
-///                                                                                           
-/// THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,                     
+/// This program and the accompanying materials
+/// are licensed and made available under the terms and conditions of the BSD License
+/// which accompanies this distribution.  The full text of the license may be found at
+/// http://opensource.org/licenses/bsd-license.php
+///
+/// THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
 /// WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2004, Intel Corporation. All rights reserved.<BR>
 This program and the accompanying materials
 are licensed and made available under the terms and conditions of the BSD License
@@ -191,12 +191,12 @@ THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
 WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
 "
 ;Copyright (c) 2008, Intel Corporation. All rights reserved.<BR>
-;This program and the accompanying materials                          
-;are licensed and made available under the terms and conditions of the BSD License         
-;which accompanies this distribution.  The full text of the license may be found at        
-;http://opensource.org/licenses/bsd-license.php                                            
+;This program and the accompanying materials
+;are licensed and made available under the terms and conditions of the BSD License
+;which accompanies this distribution.  The full text of the license may be found at
+;http://opensource.org/licenses/bsd-license.php
                                                                                           ;
-;THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,                     
+;THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
 ;WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED. ","Copyright (c) 2008, Intel Corporation. All rights reserved.<BR>
 This program and the accompanying materials
 are licensed and made available under the terms and conditions of the BSD License
@@ -207,12 +207,12 @@ THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
 WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED."
 "
 #*   Copyright (c) 2008 - 2010, Intel Corporation. All rights reserved.<BR>
-#*   This program and the accompanying materials                          
-#*   are licensed and made available under the terms and conditions of the BSD License         
-#*   which accompanies this distribution.  The full text of the license may be found at        
-#*   http://opensource.org/licenses/bsd-license.php                                            
-#*                                                                                             
-#*   THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,                     
+#*   This program and the accompanying materials
+#*   are licensed and made available under the terms and conditions of the BSD License
+#*   which accompanies this distribution.  The full text of the license may be found at
+#*   http://opensource.org/licenses/bsd-license.php
+#*
+#*   THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN ""AS IS"" BASIS,
 #*   WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.","Copyright (c) 2008 - 2010, Intel Corporation. All rights reserved.<BR>
 This program and the accompanying materials
 are licensed and made available under the terms and conditions of the BSD License
@@ -359,4 +359,25 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS."
 "$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes"
 "$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes"
-"$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes"
+"$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes","$Lua: Lua 5.1.4 Copyright (C) 1994-2008 Lua.org, PUC-Rio $ NOTE: this statement has non-visible NULL bytes",
+"   echo ""Copyright (C) 2005  Free Software Foundation, Inc.""
+    echo ""This is free software; see the source for copying conditions.  There is NO""
+    echo ""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.""", """Copyright (C) 2005  Free Software Foundation, Inc.""
+""This is free software; see the source for copying conditions.  There is NO""
+""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.""",
+"   @echo ""Copyright (C) 2005  Free Software Foundation, Inc.""
+    @echo ""This is free software; see the source for copying conditions.  There is NO""
+    @echo ""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.""", """Copyright (C) 2005  Free Software Foundation, Inc.""
+""This is free software; see the source for copying conditions.  There is NO""
+""warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.""",
+"dnl Copyright (C) 2000-2002 Free Software Foundation, Inc.
+dnl This file is free software, distributed under the terms of the GNU
+dnl General Public License.  As a special exception to the GNU General
+dnl Public License, this file may be distributed as part of a program
+dnl that contains a configuration script generated by Autoconf, under
+dnl the same distribution terms as the rest of that program.","Copyright (C) 2000-2002 Free Software Foundation, Inc.
+This file is free software, distributed under the terms of the GNU
+General Public License.  As a special exception to the GNU General
+Public License, this file may be distributed as part of a program
+that contains a configuration script generated by Autoconf, under
+the same distribution terms as the rest of that program."

@@ -23,6 +23,9 @@ DEFAULT_LEADING_DELIMITERS: List[str] = [
     "#",
     "*",
     "-",
+    "echo",
+    "@echo",
+    "dnl",
 ]
 
 
