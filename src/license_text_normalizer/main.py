@@ -24,6 +24,7 @@ DEFAULT_LEADING_DELIMITERS: List[str] = [
     "*",
     "-",
     "@echo",
+    "=",
 ]
 
 
@@ -79,6 +80,9 @@ def normalize_license_text(
         )
         normalized_line = _strip_leading_delimiters(
             normalized_line, leading_delimiters, bullet_delimiters
+        )
+        normalized_line = _strip_delimiters_present_anywhere(
+            normalized_line, leading_delimiters
         )
         # strip lines of repeating non-alnum characters
         if _is_repeated_non_alnum(normalized_line):
@@ -145,6 +149,18 @@ def _strip_words(line: str, words_to_strip: List[str]) -> str:
     for word in words_to_strip:
         normalized_line = "".join(normalized_line.split(word))
     return normalized_line.lstrip()
+
+
+def _strip_delimiters_present_anywhere(
+    line: str, delimiters: List[str]
+) -> str:
+    for delimiter in delimiters:
+        if line and not line[0] in delimiter:
+            continue
+        if delimiter in line:
+            line = line.replace(delimiter, "")
+            break
+    return line.strip()
 
 
 def _is_repeated_non_alnum(line: str) -> bool:
