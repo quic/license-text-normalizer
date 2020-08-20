@@ -82,7 +82,7 @@ def normalize_license_text(
             normalized_line, leading_delimiters, bullet_delimiters
         )
         # strip lines of all non-alphanumeric characters
-        if _is_line_non_alnum(normalized_line, leading_delimiters):
+        if _is_line_non_alnum(normalized_line):
             normalized_line = ""
         # strip words
         normalized_line = _strip_words(normalized_line, words_to_strip)
@@ -148,8 +148,7 @@ def _strip_words(line: str, words_to_strip: List[str]) -> str:
     return normalized_line.lstrip()
 
 
-def _is_line_non_alnum(line: str, delimiters: List[str]) -> bool:
-    if not (len(line) > 1 and line[0] in delimiters):
+def _is_line_non_alnum(line: str) -> bool:
+    if not len(line) > 1:
         return False
-    line_without_spaces = line.replace(" ", "")
-    return not line_without_spaces.isalnum()
+    return not any(char.isalnum() for char in line)
