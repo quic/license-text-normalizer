@@ -32,11 +32,7 @@ DEFAULT_BULLET_DELIMITERS: List[str] = ["*", "-"]
 
 DEFAULT_TRAILING_DELIMITERS: List[str] = ["*/", "*;", "*"]
 
-DEFAULT_WORDS_TO_STRIP: List[str] = [
-    "\0",  # null char
-    "echo",
-    "dnl",
-]
+DEFAULT_WORDS_TO_STRIP: List[str] = ["\0", "echo", "dnl", "<BR>"]  # null char
 
 
 def normalize_license_text(
@@ -143,7 +139,13 @@ def _strip_trailing(line: str, delimiter: str) -> str:
 def _strip_words(line: str, words_to_strip: List[str]) -> str:
     normalized_line = line
     for word in words_to_strip:
+        if word == "<BR>":
+            print("11111")
+            print(normalized_line)
+
         normalized_line = "".join(normalized_line.split(word))
+        print("222222222")
+        print(normalized_line.lstrip())
     return normalized_line.lstrip()
 
 
