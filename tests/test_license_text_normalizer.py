@@ -22,6 +22,10 @@ def _load_fixtures(pathname):
         return [(row[0], row[1]) for row in contents]
 
 
+def test_validate_fixtures_files(fixtures):
+    assert len(fixtures) == 31
+
+
 def test_normalize_license_text(fixtures):
     for raw, normalized in fixtures:
         assert normalize_license_text(raw) == normalized
