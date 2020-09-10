@@ -493,3 +493,6 @@ INITIALIZATION AND SEQUENCING REQUIREMENTS
 Copyright (c) 1995-2009 Qualcomm Technologies Incorporated.
 All Rights Reserved.
 Qualcomm Confidential and Proprietary"
+"Questionable extension field!\x00RFC 5639 curve over a 160 bit prime
+field\x00RFC 5639 curve over a 192 bit prime field","Questionable extension field!RFC 5639 curve over a 160 bit prime
+fieldRFC 5639 curve over a 192 bit prime field"

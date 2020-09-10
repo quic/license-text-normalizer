@@ -32,7 +32,7 @@ DEFAULT_BULLET_DELIMITERS: List[str] = ["*", "-"]
 
 DEFAULT_TRAILING_DELIMITERS: List[str] = ["*/", "*;", "*"]
 
-DEFAULT_WORDS_TO_STRIP: List[str] = ["\0", "echo", "dnl", "<BR>"]
+DEFAULT_WORDS_TO_STRIP: List[str] = ["\0", "echo", "dnl", "<BR>", "\\x00"]
 
 
 def normalize_license_text(
