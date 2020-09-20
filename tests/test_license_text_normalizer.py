@@ -23,7 +23,7 @@ def _load_fixtures(pathname):
 
 
 def test_validate_fixtures_files(fixtures):
-    assert len(fixtures) == 31
+    assert len(fixtures) == 32
 
 
 def test_normalize_license_text(fixtures):
