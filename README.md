@@ -38,4 +38,4 @@ assert normalized_text == "Copyright 2010 Google Inc. All Rights Reserved."
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## License
-License Text Normalizer is licensed under the BSD 3-clause “New” or “Revised”. License See [LICENSE](LICENSE) for the full license text.
+License Text Normalizer is licensed under the BSD 3-clause “New” or “Revised” License. See [LICENSE](LICENSE) for the full license text.
