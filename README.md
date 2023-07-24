@@ -7,7 +7,7 @@ Library that provides license text normalization functionality in Python.
 A javascript implementation is also available: https://github.com/quic/license-text-normalizer-js
 
 ## Requirements
-* Python 3.6+
+* Python 3.8+
 * `pip`, `setuptools`
 
 ## Usage
