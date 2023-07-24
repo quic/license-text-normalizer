@@ -496,3 +496,28 @@ Qualcomm Confidential and Proprietary"
 "Questionable extension field!\x00RFC 5639 curve over a 160 bit prime
 field\x00RFC 5639 curve over a 192 bit prime field","Questionable extension field!RFC 5639 curve over a 160 bit prime
 fieldRFC 5639 curve over a 192 bit prime field"
+"/ Copyright 2006, Google Inc.
+/ All rights reserved.
+/
+/ Redistribution and use in source and binary forms, with or without
+/ modification, are permitted provided that the following conditions are
+/ met:
+/
+/     * Redistributions of source code must retain the above copyright
+/ notice, this list of conditions and the following disclaimer.
+/     * Redistributions in binary form must reproduce the above
+/ copyright notice, this list of conditions and the following disclaimer
+/ in the documentation and/or other materials provided with the
+/ distribution.","Copyright 2006, Google Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution."
