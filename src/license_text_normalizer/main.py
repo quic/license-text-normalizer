@@ -24,6 +24,7 @@ DEFAULT_LEADING_DELIMITERS: List[str] = [
     "*",
     "-",
     "@echo",
+    "/",
 ]
 
 
